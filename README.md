@@ -3,9 +3,11 @@
 
 Hello there, I am [Stephanie]("https://www.linkedin.com/in/stephanie-somade-4342131b1/?originalSubdomain=uk")! I am a self-taught software engineer that lives in the UK. I am currently undergoing my Level 4 Software Developer Apprenticeship. I am passionate about all things code and as I am learning, I am also planning a number of different projects to become more skilled. 
 
+I am currently learning about Redux Sagas
+
 💼 If you would like to contact me, here is my [email](mailto:stephaniesomadee@gmail.com)!
 
-I plan to build this profile with personal projects whilst I work to build my skillset and soldify my knowledge.
+I plan to build this profile with personal projects whilst I work to build my skillset and soldify my knowledge. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 **languages and tools:**  
 
