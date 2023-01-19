@@ -1,7 +1,7 @@
 ## Hello and welcome to my Profile!
 ### About Me
 
-Hello there, I am [Stephanie Somade]("https://www.linkedin.com/in/stephanie-somade-4342131b1/?originalSubdomain=uk")! I am a self-taught software engineer that lives in the UK. I am currently undergoing my Level 4 Software Developer Apprenticeship. I am passionate about all things code and as I am learning, I am also planning a number of different projects to become more skilled. 
+Hello there, I am [Stephanie]("https://www.linkedin.com/in/stephanie-somade-4342131b1/?originalSubdomain=uk")! I am a self-taught software engineer that lives in the UK. I am currently undergoing my Level 4 Software Developer Apprenticeship. I am passionate about all things code and as I am learning, I am also planning a number of different projects to become more skilled. 
 
 💼 If you would like to contact me, here is my [email](mailto:stephaniesomadee@gmail.com)!
 
