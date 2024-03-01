@@ -25,10 +25,10 @@ I plan to build this profile with personal projects whilst I work to build my sk
   <img align="left" alt="Steph's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/stephanie-somade-4342131b1/?originalSubdomain=uk">
-  <img align="left" alt="Stephanie's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Stephanie's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <a href="https://twitter.com/stephaniesomade">
-  <img align="left" alt="Stephanie's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Stephanie's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 
 <!--
