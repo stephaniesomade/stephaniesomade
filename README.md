@@ -10,6 +10,8 @@ I care a lot about developer experience and I am currently exploring ways AI and
 I plan to build this profile with personal projects whilst I work to build my skillset and soldify my knowledge. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 Learn More About ME: https://www.student-circuit.com/news/a-curiosity-turned-career-stephanie-somade/
+
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
