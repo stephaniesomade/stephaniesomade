@@ -1,9 +1,9 @@
 ## Hello and welcome to my Profile!
 ### About Me
 
-Hello there, I am [Stephanie]("https://www.linkedin.com/in/stephanie-somade-4342131b1/?originalSubdomain=uk")! I am a self-taught software engineer that lives in the UK. I am currently undergoing my Level 4 Software Developer Apprenticeship. I am passionate about all things code and as I am learning, I am also planning a number of different projects to become more skilled. 
+Hello there, I am [Stephanie]("https://www.linkedin.com/in/stephanie-somade-4342131b1/?originalSubdomain=uk")! I'm a full-stack developer with a love for clean code, clever architecture, and tools that make life easier for other engineers. I started my career through a software engineering apprenticeship, and since then, I've worked across high-traffic sites, contributed to ad tech that impacts millions, and shipped features in production using React, Redux Saga, Node.js, TypeScript, and AWS.
 
-I am currently learning about Redux Sagas
+I care a lot about developer experience and I am currently exploring ways AI and engineering can uplift teams. Currently studying for the AWS cloud practitioner certification along with general AI knowledge. Outside of code, I’m a music lover, gym lover and book lover through and through!
 
 💼 If you would like to contact me, here is my [email](mailto:stephaniesomadee@gmail.com)!
 
